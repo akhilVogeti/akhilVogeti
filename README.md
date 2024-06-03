@@ -2,9 +2,10 @@
 
 I am a curious chap that is interested in pretty much everything under the sun :sunny:. This profile is limited to my interest in Software Engineering.
 
-- :seedling:I am currently learning the nuts and bolts of leveraging Generative AI to build more impactful software applications.
+- :seedling:I am currently enhancing my skills in Java and the Spring framework, while also learning the nuts and bolts of how to leverage Generative AI to build more 
+     impactful software applications.
 - :telescope:I am primarily aiming to become a backend engineer. Anything that goes into implementing the business logic of an application is what i find more 
-     interesting. It could be conventional software development using Java or AI. Just about anything.
+     interesting. 
 
 ## My Projects :hammer_and_wrench: 
 
