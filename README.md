@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a curious chap that is interested in pretty much everything under the sun :sunny:. This profile is limited to my interest in Software Engineering.
+I am a curious chap who is interested in pretty much everything under the sun :sunny:. This profile is limited to my interest in Software Engineering.
 
 - :seedling:I am currently enhancing my skills in Java and the Spring framework, while also learning the nuts and bolts of how to leverage Generative AI to build more 
      impactful software applications.
