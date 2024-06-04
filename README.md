@@ -4,7 +4,7 @@ I am a curious chap who is interested in pretty much everything under the sun :s
 
 - :seedling:I am currently enhancing my skills in Java and the Spring framework, while also learning the nuts and bolts of how to leverage Generative AI to build more 
      impactful software applications.
-- :telescope:I am primarily aiming to become a backend engineer. Anything that goes into implementing the business logic of an application is what i find more 
+- :telescope:I am primarily aiming to become a backend engineer. Anything that goes into implementing the business logic of an application is what I find more 
      interesting. 
 
 ## My Projects :hammer_and_wrench: 
@@ -31,7 +31,7 @@ For more detailed info on projects, do visit the github links.
 I am decently competent in Java, Springboot, MySQL, MongoDB, Redis etc and will quickly learn any other tech I need in order to do my job. In addition to my technical skills, here are some additional strengths I bring: 
 
 1. I can understand your product well. No matter what it is. You could be building a medical device, a social media platform, a fintech, or even a vanilla CRUD 
-   application,  whatever the product, I can develop a deeper understanding of its use case, user experience, and market expecations. It is what I think would help me 
+   application,  whatever the product, I can develop a deeper understanding of its use case, user experience, and market expectations. It is what I think would help me 
    contribute better as an engineer. This context in which engineering happens is often overlooked.
    
 2. I am fairly articulate. I believe in being clear in my communication. It's impossible for a team to function smoothly without it. 
