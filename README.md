@@ -24,7 +24,7 @@ For more detailed info on projects, do visit the github links.
    portal that helps you file your tax returns. Tech makes life easy, and it does that at scale.
    
 3. You simply cant build anything without it. <br>
-   From connecting people across continenets to raising productivity in every sector, digital tools have become indispensable 
+   From connecting people across continents to raising productivity in every sector, digital tools have become indispensable 
    in nearly every aspect of human endeavor.
 
 
