@@ -4,17 +4,19 @@ I am a curious chap who is interested in pretty much everything under the sun :s
 
 - :seedling:I am currently enhancing my skills in Java and the Spring framework, while also learning the nuts and bolts of how to leverage Generative AI to build more 
      impactful software applications.
-- :telescope:I am primarily aiming to become a backend engineer. Anything that goes into implementing the business logic of an application is what I find more 
-     interesting. 
+- :telescope:I am primarily aiming to become a backend engineer. Translating business logic into working code is fascinating. 
 
 ## My Projects :hammer_and_wrench: 
 
 1. A URL shortener App : https://github.com/akhilVogeti/URLShortener <br>
    Built using Springboot + MySQL + Redis. Docker for containerisation. It also follows Strategy Design Pattern.
 
-3. To-do list App : https://github.com/akhilVogeti/todo <br>
+2. To-do list App : https://github.com/akhilVogeti/todo <br>
    Built using Springboot + MongoDB, this application helps perform CRUD operations on tasks and task lists along with search and sort functionalities.
 
+3. AI powered Q&A bot : https://github.com/akhilVogeti/chatBot <br>
+   A short python project that uses OpenAI's llm to answer questions based on uploaded pdf or input text content. 
+   
 For more detailed info on projects, do visit the github links.
 
 ## Why Software Engineering fascinates me :computer: 
