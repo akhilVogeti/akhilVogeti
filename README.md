@@ -4,7 +4,7 @@ I am a curious chap who is interested in pretty much everything under the sun :s
 
 - :seedling:I am currently enhancing my skills in Java and the Spring framework, while also learning the nuts and bolts of how to leverage Generative AI to build more 
      impactful software applications. Started learning JavaScript and NodeJS. 
-- :telescope:I am primarily aiming to become a backend engineer. Translating business logic into working code is fascinating. 
+- :telescope:I am primarily aiming to become a backend engineer. Translating business logic into working code is just fascinating. 
 
 ## My Projects :hammer_and_wrench: 
 
