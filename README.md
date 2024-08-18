@@ -3,7 +3,7 @@
 I am a curious chap who is interested in pretty much everything under the sun :sunny:. This profile is limited to my interest in Software Engineering.
 
 - :seedling:I am currently enhancing my skills in Java and the Spring framework, while also learning the nuts and bolts of how to leverage Generative AI to build more 
-     impactful software applications.
+     impactful software applications. Started learning JavaScript and NodeJS. 
 - :telescope:I am primarily aiming to become a backend engineer. Translating business logic into working code is fascinating. 
 
 ## My Projects :hammer_and_wrench: 
@@ -15,7 +15,11 @@ I am a curious chap who is interested in pretty much everything under the sun :s
    Built using Springboot + MongoDB, this application helps perform CRUD operations on tasks and task lists along with search and sort functionalities.
 
 3. AI powered Q&A bot : https://github.com/akhilVogeti/chatBot <br>
-   A short python project that uses OpenAI's llm to answer questions based on uploaded pdf or input text content. 
+   A short python project that uses OpenAI's llm to answer questions based on uploaded pdf or input text content.
+
+4. TaskApp : https://github.com/akhilVogeti/TaskApp <br>
+   A task manager app with NodeJS backend, MongoDB, and a basic UI using react. Registered users can manager their tasks after logging in.
+
    
 For more detailed info on projects, do visit the github links.
 
