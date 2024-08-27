@@ -36,7 +36,7 @@ For more detailed info on projects, do visit the github links.
 
 ## If you are a recruiter :black_nib:
 
-I am decently competent in Java, Springboot, MySQL, MongoDB, Redis etc and will quickly learn any other tech I need in order to do my job. In addition to my technical skills, here are some additional strengths I bring: 
+I am decently competent in Java, Springboot, JavaScript, NodeJS, MySQL, MongoDB, Redis etc and will quickly learn any other tech I need in order to do my job. Apart from  my technical skills, here are some additional strengths I bring: 
 
 1. I can understand your product well. No matter what it is. <br>
    Whether you're developing a medical device, a social media platform, a fintech solution, or a simple CRUD application, I can develop a deeper understanding of its use 
